@@ -26,7 +26,7 @@ I am a **MEng Software Engineering** student with a passion for **coding** and *
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/your-username/[your-portfolio.git](https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git)
 2. cd Project-Name
 3. npm install
 4. npm start

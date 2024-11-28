@@ -32,5 +32,6 @@ https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git
 4. npm start
 
 ## Contact
+
 Email: patrykzboch@icloud.com
 LinkedIn: https://www.linkedin.com/in/patrykzboch/

@@ -15,7 +15,7 @@
 - [Contact](#contact)
 
 ## About Me
-I am a **MEng Software Engineering** student with a passion for **coding** and **problem-solving**. Throughout my academic career, I've worked on various projects using **Python**, **C#**, **UML**, **Java**, and other technologies. My goal is to build scalable, efficient, and user-friendly applications while continuing to learn and grow as a software developer.
+I am a **MEng Software Engineering** student with a passion for **coding** and **problem-solving**. Throughout my academic career, I've worked on various projects using **Python**, **C#**, **UML**, and other technologies. My goal is to build scalable, efficient, and user-friendly applications while continuing to learn and grow as a software developer.
 
 ## Technologies
 - **Languages**: Python, JavaScript, C#, UML
@@ -35,7 +35,12 @@ This project explores the design and functionality of **Turing Machines**, compl
 This is a responsive and dynamic website I independently created for my group project to showcase our team's progress and deliverables. The website is live and can be accessed here: [Brainwave Team Website](https://brainwave-team.web.app/).
 
 ### Project 5: Machine Learning for Wine Quality Prediction
-This project delves into machine learning and data mining techniques in Python to predict wine quality. It incorporates data visualisation, clustering, classifier models, and neural networks to analyse and interpret patterns within the dataset.
+This Python-based project delves into machine learning and data analysis techniques to predict wine quality based on its chemical properties. It includes:
+- **Data Exploration**: Analysis and visualization of key attributes.
+- **Clustering**: Identifying patterns using K-Means and hierarchical clustering.
+- **Classification Models**: Predicting wine quality using Decision Trees, KNN, Random Forest, and Neural Networks.
+- **Interactive Notebook**: Opening the Jupyter Notebook on GitHub automatically runs the code, showing results in real-time.
+
 
 ## How to Use
 https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git
@@ -43,8 +48,13 @@ https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git
    ```bash
    git clone https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git
 2. cd Project-Name
-3. npm install
-4. npm start
+3. Follow project-specific instructions:
+- For Jupyter Notebook-based projects (e.g., Machine Learning for Wine Quality Prediction), open the .ipynb file on GitHub or a local Jupyter environment. The notebook -    
+  automatically executes and displays results.
+-For web-based projects, run:
+  npm install
+  npm start
+- For PDF-based projects, open the PDF directly to view the content.
 
 ## Contact
 

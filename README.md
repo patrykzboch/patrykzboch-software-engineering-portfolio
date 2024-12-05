@@ -10,7 +10,7 @@
   - [Project 2: Web Browser](#project-2-web-browser)
   - [Project 3: Turing Machine](#project-3-turing-machines)
   - [Project 4: React Native Website](#project-4-brainwave_team_website)
-  - [Project 5: Machine Learning for Quality Prediction](#project-5-machine_learning_for_quality_prediction)
+  - [Project 5: Machine Learning for Quality Prediction](#project-5-machine_learning_for_wine_quality_prediction)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
 

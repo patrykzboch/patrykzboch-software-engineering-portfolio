@@ -9,7 +9,7 @@
   - [Project 1: Flight Management System](#project-1-flight-management-system)
   - [Project 2: Web Browser](#project-2-web-browser)
   - [Project 3: Turing Machine](#project-3-turing-machines)
-  - [Project 4: Website](#project-4-website)
+  - [Project 4: Website](#project-4-brainwave_team_website)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
 

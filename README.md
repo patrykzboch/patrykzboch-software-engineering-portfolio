@@ -23,7 +23,7 @@ I am a **MEng Software Engineering** student with a passion for **coding** and *
 ## Projects
 
 ### Project 1: Flight Management System
-A Flight Management System (FMS) designed to manage flight plans and strips. It integrates with external systems for seamless operation and prioritizes security and usability.
+A Flight Management System (FMS) designed to manage flight plans and strips. It integrates with external systems for seamless operation and prioritises security and usability.
 
 ### Project 2: Web Browser
 A simple C# web browser that sends HTTP requests, displays raw HTML, and supports browsing features such as history and favourites.
@@ -35,7 +35,7 @@ This project explores the design and functionality of **Turing Machines**, compl
 This is a responsive and dynamic website I independently created for my group project to showcase our team's progress and deliverables. The website is live and can be accessed here: [Brainwave Team Website](https://brainwave-team.web.app/).
 
 ### Project 5: Machine Learning for Wine Quality Prediction
-This project delves into machine learning and data mining techniques in Python to predict wine quality. It incorporates data visualization, clustering, classifier models, and neural networks to analyze and interpret patterns within the dataset.
+This project delves into machine learning and data mining techniques in Python to predict wine quality. It incorporates data visualisation, clustering, classifier models, and neural networks to analyse and interpret patterns within the dataset.
 
 ## How to Use
 https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git

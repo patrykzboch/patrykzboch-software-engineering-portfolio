@@ -19,7 +19,7 @@ I am a **MEng Software Engineering** student with a passion for **coding** and *
 
 ## Projects
 
-### [Project 1: Flight Management System](link-to-project-1)
+### [Project 1: Flight Management System](https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio/tree/main/Project1)
 ### [Project 2: project1](link2)
 
 ## How to Use

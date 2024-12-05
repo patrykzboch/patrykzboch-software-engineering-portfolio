@@ -6,8 +6,8 @@ A collection of software development projects showcasing my skills in programmin
 - [About Me](#about-me)
 - [Technologies](#technologies)
 - [Projects](#projects)
-  - [Project 1](#project-1)
-  - [Project 2](#project-2)
+  - [Project 1: Flight Management System](#project-1-flight-management-system)
+  - [Project 2: Web Browser](#project-2-web-browser)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
 
@@ -19,8 +19,12 @@ I am a **MEng Software Engineering** student with a passion for **coding** and *
 
 ## Projects
 
-### [Project 1: Flight Management System](https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio/tree/main/Project1)
-### [Project 2: project1](link2)
+### Project 1: Flight Management System
+A Flight Management System (FMS) designed to manage flight plans and strips. It integrates with external systems for seamless operation and prioritizes security and usability.
+
+### Project 2: Web Browser
+A simple C# web browser that sends HTTP requests, displays raw HTML, and supports browsing features such as history and favorites.
+
 
 ## How to Use
 https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git

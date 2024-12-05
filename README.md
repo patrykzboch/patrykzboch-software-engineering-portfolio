@@ -1,6 +1,6 @@
 # Patryk Zboch's Portfolio
 
-A collection of software development projects showcasing my skills in programming, problem-solving, and system design. This portfolio includes projects built with a variety of technologies such as Python, Java, React, and more. Feel free to explore my work!
+  A collection of software development projects showcasing my skills in programming, problem-solving, and system design. This portfolio includes projects built with a variety of technologies such as C#, UML, and more. Feel free to explore my work!
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -8,11 +8,12 @@ A collection of software development projects showcasing my skills in programmin
 - [Projects](#projects)
   - [Project 1: Flight Management System](#project-1-flight-management-system)
   - [Project 2: Web Browser](#project-2-web-browser)
+  - [Project 3: Turing Machine](#project-3-turing-machines)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
 
 ## About Me
-I am a **MEng Software Engineering** student with a passion for **coding** and **problem-solving**. Throughout my academic career, I've worked on various projects using **Python**, **JavaScript**, **React**, **Java**, and other technologies. My goal is to build scalable, efficient, and user-friendly applications while continuing to learn and grow as a software developer.
+I am a **MEng Software Engineering** student with a passion for **coding** and **problem-solving**. Throughout my academic career, I've worked on various projects using **Python**, **C#**, **UML**, **Java**, and other technologies. My goal is to build scalable, efficient, and user-friendly applications while continuing to learn and grow as a software developer.
 
 ## Technologies
 - **Languages**: Python, JavaScript, C#, Java
@@ -23,8 +24,10 @@ I am a **MEng Software Engineering** student with a passion for **coding** and *
 A Flight Management System (FMS) designed to manage flight plans and strips. It integrates with external systems for seamless operation and prioritizes security and usability.
 
 ### Project 2: Web Browser
-A simple C# web browser that sends HTTP requests, displays raw HTML, and supports browsing features such as history and favorites.
+A simple C# web browser that sends HTTP requests, displays raw HTML, and supports browsing features such as history and favourites.
 
+### Project 3: Turing Machines
+This project explores the design and functionality of **Turing Machines**, complete with detailed descriptions and visualisations. It demonstrates how Turing Machines operate on unary inputs and perform computations using defined state transitions. 
 
 ## How to Use
 https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git

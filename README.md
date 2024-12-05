@@ -1,6 +1,6 @@
 # Patryk Zboch's Portfolio
 
-  A collection of software development projects showcasing my skills in programming, problem-solving, and system design. This portfolio includes projects built with a variety of technologies such as C#, UML, and more. Feel free to explore my work!
+  A collection of software development projects showcasing my skills in programming, problem-solving, and system design. This portfolio includes projects built with a variety of technologies such as C#, UML, React Native and more. Feel free to explore my work!
 
 ## Table of Contents
 - [About Me](#about-me)

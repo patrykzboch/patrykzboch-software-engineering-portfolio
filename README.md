@@ -9,6 +9,7 @@
   - [Project 1: Flight Management System](#project-1-flight-management-system)
   - [Project 2: Web Browser](#project-2-web-browser)
   - [Project 3: Turing Machine](#project-3-turing-machines)
+  - [Project 4: Website](#project-4-web-site)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
 
@@ -27,7 +28,10 @@ A Flight Management System (FMS) designed to manage flight plans and strips. It 
 A simple C# web browser that sends HTTP requests, displays raw HTML, and supports browsing features such as history and favourites.
 
 ### Project 3: Turing Machines
-This project explores the design and functionality of **Turing Machines**, complete with detailed descriptions and visualisations. It demonstrates how Turing Machines operate on unary inputs and perform computations using defined state transitions. 
+This project explores the design and functionality of **Turing Machines**, complete with detailed descriptions and visualisations. It demonstrates how Turing Machines operate on unary inputs and perform computations using defined state transitions.
+
+### Project 4: Website
+Website I created by myself for my group project. Can be accessed here: https://brainwave-team.web.app/
 
 ## How to Use
 https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git

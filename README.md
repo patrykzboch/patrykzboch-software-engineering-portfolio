@@ -30,8 +30,8 @@ A simple C# web browser that sends HTTP requests, displays raw HTML, and support
 ### Project 3: Turing Machines
 This project explores the design and functionality of **Turing Machines**, complete with detailed descriptions and visualisations. It demonstrates how Turing Machines operate on unary inputs and perform computations using defined state transitions.
 
-### Project 4: Website
-Website I created by myself for my group project. Can be accessed here: https://brainwave-team.web.app/
+### Project 4: Brainwave Team Website
+This is a responsive and dynamic website I independently created for my group project to showcase our team's progress and deliverables. The website is live and can be accessed here: [Brainwave Team Website](https://brainwave-team.web.app/).
 
 ## How to Use
 https://github.com/patrykzboch/patrykzboch-software-engineering-portfolio.git
